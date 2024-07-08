@@ -1,0 +1,56 @@
+body{
+    background-color: darkgray;
+    width: 100%;
+}
+.title{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color:cornflowerblue;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.blocks h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:blueviolet;
+    font-weight: bold;
+    text-align:left;
+}
+.block1, .block2, .block3{
+    color: black;
+    border: 1px solid white;
+    border-radius: 2px;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+
+}
+.block1{
+    position: absolute;
+    top: 7rem;
+    left: 20px;
+    right: 20px;
+    border-radius: 10px;
+
+}
+.block2{
+    position: absolute;
+    top: 15rem;
+    left: 20px;
+    right: 20px;
+    border-radius: 10px;
+}
+.block3{
+    position: absolute;
+    top: 31rem;
+    left: 20px;
+    right: 20px;
+    border-radius: 10px;
+}
